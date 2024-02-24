@@ -63,3 +63,7 @@ img {
     height: 5px;
     width: 8vw;
 }
+
+.btn-outline-light {
+    min-width: calc(100% / 12);
+}
