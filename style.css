@@ -30,11 +30,15 @@
     background-color: #1abc9c;
     border: 1px solid #1abc9c;
 }
+.nav-link {
+    color: #ffffff;
+}
 /**********************
     HEADER
 *********************/
  
 ul {
+    margin-right: -40px;
     margin-bottom: 0px;
 }
 
