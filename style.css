@@ -1,5 +1,5 @@
 html {
-    scroll-padding-top: 2rem;
+    scroll-padding-top: 4rem;
 }
 /**********************
     COLOR
@@ -93,6 +93,33 @@ img {
 
 .album:hover .overlay {
     opacity: 1;
+}
+
+.form-control{
+    border-color: #1abc9c;
+}
+
+#name {
+    color: #1abc9c;
+}
+#last-name {
+    color: #1abc9c;
+}
+#phone {
+    color: #1abc9c;
+}
+
+#message {
+    color: #1abc9c;
+}
+
+.nav-link:hover {
+    color: #1abc9c;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #1abc9c;
 }
 /**********************
         FOOTER
