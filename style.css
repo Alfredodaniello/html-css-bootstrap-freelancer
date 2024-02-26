@@ -40,16 +40,6 @@
 /**********************
     HEADER
 *********************/
- 
-ul {
-    margin-right: -40px;
-    margin-bottom: 0px;
-}
-
-h4 {
-    margin-bottom: 0px;
-}
-
 a {
     text-decoration: none   ;
     color: white;
@@ -62,7 +52,6 @@ img {
 /**********************
         MAIN
 *********************/
-
 .portfolio img {
     max-height: 375px;
     width: 100%;
@@ -82,6 +71,9 @@ img {
     min-width: calc(100% / 12);
 }
 
+/**********************
+        FOOTER
+*********************/
 footer a {
     color: #1abc9c;
 }
