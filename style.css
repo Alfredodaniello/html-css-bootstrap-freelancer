@@ -134,6 +134,15 @@ img {
     color: #1abc9c;
 }
 
+.btn-green:hover {
+    border: #1abc9c 1px solid;
+    color: #1abc9c;
+}
+
+.btn-outline-light:hover {
+    color: #1abc9c;
+}
+
 /**********************
         FOOTER
 *********************/
