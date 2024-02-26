@@ -126,6 +126,14 @@ img {
     background-color: #1abc9c9a;
 }
 
+.btn-circle:hover {
+    border: #1abc9c 1px solid;
+}
+
+.btn-circle:hover svg {
+    color: #1abc9c;
+}
+
 /**********************
         FOOTER
 *********************/
@@ -148,4 +156,3 @@ button a {
 footer i {
     color: #ffffff;
 }
-
