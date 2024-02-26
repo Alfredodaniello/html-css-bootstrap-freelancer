@@ -121,6 +121,14 @@ img {
     box-shadow: none;
     border-color: #1abc9c;
 }
+
+.navbar-toggler:hover {
+    background-color: #1abc9c9a;
+}
+
+.navbar:focus {
+    box-shadow: none;
+}
 /**********************
         FOOTER
 *********************/
