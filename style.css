@@ -126,9 +126,6 @@ img {
     background-color: #1abc9c9a;
 }
 
-.navbar:focus {
-    box-shadow: none;
-}
 /**********************
         FOOTER
 *********************/
@@ -151,3 +148,4 @@ button a {
 footer i {
     color: #ffffff;
 }
+
